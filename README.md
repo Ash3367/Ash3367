@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">I always find myself where things motive and pull me towards betterment and this is how technologies 🌐 particularly in computer science has brought me to a stage where I find myself as an enthusiastic Data Scientist that has allowed me to learn and implement different concepts of Machine Learning. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="ashish kumar" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img src="https://img.shields.io/badge/Languages-Python" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
