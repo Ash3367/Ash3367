@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Deep Learning**
 
 - 🌱 I’m currently learning **MLops**
-
+<!---
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
-
+--->
 - 💬 Ask me about **Data Science, Machine Learning, NLP**
 
 - 📫 How to reach me **ashishkumar3367@gmail.com**
