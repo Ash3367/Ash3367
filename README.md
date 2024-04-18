@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Data Science, Machine Learning, NLP**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
+- 📫 How to reach me **ashishkumar3367@gmail.com**
+<!---
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
+--->
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
